@@ -1,4 +1,4 @@
-# snort-ids-rule-analysis
+# traffic-analysis
 * Objective
 * Traffic Capture Overview
 * Protocols Analyzed
